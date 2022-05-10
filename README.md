@@ -2,7 +2,7 @@
 
 Código para ambos modelos del sistema de atención de alumnos de Sistemas Operativos. Permite ejecutar ambos modelos con distintos valores de N, los cuales para el trabajo desarrollado fueron establecidos para que vayan de 2 a 10 ayudantes.
 
-1. N puestos 1 cola
+1. N puestos 1 cola (modelo basado en el sistema actual)
 
 -Variables Exógenas
   Control: cantidad (Cantidad de Ayudantes, personas)
@@ -15,7 +15,8 @@ Código para ambos modelos del sistema de atención de alumnos de Sistemas Opera
             
             
             
-2. N puestos N colas
+2. N puestos N colas (alternativa propuesta)
+
 -Variables Exógenas
   Control: cantidad (Cantidad de Ayudantes, personas)
   Datos: IA (Intervalo de Arribos, segundos); TA (Tiempo de Atención, segundos)

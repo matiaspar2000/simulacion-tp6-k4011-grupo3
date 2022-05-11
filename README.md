@@ -2,6 +2,8 @@
 
 Código para ambos modelos del sistema de atención de alumnos de Sistemas Operativos. Permite ejecutar ambos modelos con distintos valores de N, los cuales para el trabajo desarrollado fueron establecidos para que vayan de 2 a 10 ayudantes.
 
+Por motivos de facilitar la implementación el código tiene pequeñas diferencias respecto de los respectivos diagramas.
+
 1. N puestos 1 cola (modelo basado en el sistema actual)
 
 -Variables Exógenas
